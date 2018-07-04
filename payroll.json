@@ -1,0 +1,26 @@
+[
+    { 
+        "name": "Swetha",
+        "age": 24,
+        "gender": "Female",
+        "projectcode": "SSC",
+        "manager": "Max",
+        "salary": 25000
+    },
+    { 
+        "name": "Saritha",
+        "age": 26,
+        "gender": "Female",
+        "projectcode": "SSB",
+        "manager": "Jain",
+        "salary": 28000
+    },
+    { 
+        "name": "Gayathri",
+        "age": 24,
+        "gender": "Female",
+        "projectcode": "ABB",
+        "manager": "Alergra",
+        "salary": 27000
+    }
+]
